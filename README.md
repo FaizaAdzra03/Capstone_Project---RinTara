@@ -1,1 +1,1 @@
-# Cpastone_Project---RinTara
+# Capstone_Project---RinTara
