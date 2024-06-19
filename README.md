@@ -1,5 +1,3 @@
-![image](https://github.com/FaizaAdzra03/Capstone_Project---RinTara/assets/90081266/a251c039-830e-45ca-850d-1b0aa2023d42)
-
 
 
 [![logo rintara-fix](https://github.com/FaizaAdzra03/Capstone_Project---RinTara/assets/90081266/24d86f08-b407-4a8d-83b5-fc33230167fb/raw)](https://rintara.vercel.app/)
@@ -29,6 +27,9 @@ With RinTara, we strive to enrich the public's knowledge about the nation's cult
 1. **Clone the Project**
 To clone the repository, run the following command in your terminal:
 git clone https://github.com/FaizaAdzra03/Capstone-Project_RinTara.git
+1. **Clone the Project**
+   To clone the repository, run the following command in your terminal:
+   ```git clone https://github.com/FaizaAdzra03/Capstone-Project_RinTara.git```
 
 3. Install Library menggunakan npm
    ```npm install```
