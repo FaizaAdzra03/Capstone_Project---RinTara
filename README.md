@@ -1,4 +1,4 @@
-
+![image](https://github.com/FaizaAdzra03/Capstone_Project---RinTara/assets/90081266/a251c039-830e-45ca-850d-1b0aa2023d42)
 
 
 
@@ -23,5 +23,11 @@ With RinTara, we strive to enrich the public's knowledge about the nation's cult
 # 💻 Deployed Link
 - [RinTara](rintara.vercel.app)
 # 🔎 Website Preview
-
+# Instalasi Project di Lokal
+1. Clone Proyek
+   `https://github.com/FaizaAdzra03/Capstone-Project_RinTara.git`
+2. Install Library menggunakan npm
+   ```npm install```
+3. Jalankan project
+   ```npm run start```
 
